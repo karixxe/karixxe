@@ -2,7 +2,7 @@
 
 ### Beginner SoftDev
 
-- 🌱 I'm currently learning **PHP and C++**
+- 🌱 I'm currently learning **PHP and Swift**
 - 📫 How to reach me **ghramraa46brzuch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
