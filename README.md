@@ -2,12 +2,6 @@
 
 ### Beginner SoftDev
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karixxe&theme=flat&no-frame=true&no-bg=true&margin-w=6" alt="karixxe trophies" />
-  </a>
-</p>
-
 - 🌱 I'm currently learning **PHP and C++**
 - 📫 How to reach me **ghramraa46brzuch@gmail.com**
 
@@ -32,14 +26,6 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karixxe&layout=compact&locale=en" alt="karixxe top langs" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=karixxe&show_icons=true&locale=en" alt="karixxe github stats" />
 </p>
 
 <p>
