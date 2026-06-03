@@ -28,6 +28,3 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=karixxe" alt="karixxe streak stats" />
-</p>
